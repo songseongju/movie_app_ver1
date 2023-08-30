@@ -39,19 +39,14 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://songseongju.github.io/movie_app_ver1",
   
-    "homepage": [
-      "https://songseongju.github.io/movie_app_ver1"
-    ]
-    ,
- 
   "extends": [
     "next",
     "plugin:react/recommended",
     "plugin:prettier/recommended",
     "plugin:@typescript-eslint/recommended"
   ],
-
   "plugins": [
     "@typescript-eslint/eslint-plugin"
   ],
