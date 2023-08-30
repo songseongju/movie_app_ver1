@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy ": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -39,9 +39,8 @@
       "last 1 safari version"
     ]
   },
-
   "homepage": "https://songseongju.github.io/movie_app_ver1",
-
+  
   "extends": [
     "next",
     "plugin:react/recommended",
